@@ -14,7 +14,7 @@
     background-color: azure;
     margin:10% auto;
     padding: 20px;
-    width: 50%;
+    width: 90%;
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2) 0 7px 20px 0 rgba(0, 0, 0, 0.17);
 }
 
@@ -29,6 +29,9 @@
     color:red;
     cursor: pointer;
     text-decoration: none;
+}
 
-
+.modal_image{
+    width: 100%;
+    object-fit: cover;
 }

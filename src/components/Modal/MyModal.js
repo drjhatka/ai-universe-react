@@ -24,9 +24,7 @@ const MyModal = ({closeModal, data}) => {
                                     <div className="col-md-12">
                                         <img className='modal_image' src={data.image} alt="" />
                                     </div>
-                                    <div className="col-md-12">
-                                        <img className='modal_image' src={data.image} alt="" />
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
