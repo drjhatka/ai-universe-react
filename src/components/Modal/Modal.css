@@ -1,0 +1,34 @@
+.custom_modal{
+
+    left: 0;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    height: 80vw;
+    z-index: 1;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal_content{
+    background-color: azure;
+    margin:10% auto;
+    padding: 20px;
+    width: 50%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2) 0 7px 20px 0 rgba(0, 0, 0, 0.17);
+}
+
+.closeBtn{
+    float: right;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+.closeBtn:hover, .closeBtn:focus{
+    color:red;
+    cursor: pointer;
+    text-decoration: none;
+
+
+}

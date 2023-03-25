@@ -1,0 +1,9 @@
+.card_image{
+    width: 100%;
+    height: 20vw !important;
+    object-fit: contain;
+}
+/* 
+.fa-2x{
+    font-size: 22px !important;
+} */
